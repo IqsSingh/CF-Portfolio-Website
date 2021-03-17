@@ -265,6 +265,7 @@ a.work-projects__links{
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 0px;
   margin: 0;
+}
 
 /* ------------------------ Other ------------------------ */
 .navigation-list li {
@@ -429,3 +430,4 @@ color: var(--black);
   100% {
     fill: #cc2424;
   }
+}
